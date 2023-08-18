@@ -3,7 +3,7 @@
 웹 개발자.  <br> 
 <br> 
 Java 백엔드 개발자입니다. <br>
-최근에는 Python, Django 를 학습해보고 있습니다. <br>
+최근에는 Python, Django 를 배우고 있습니다. <br>
 <br>
 <!--
 **pjc1991/pjc1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
