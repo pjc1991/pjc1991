@@ -1,10 +1,8 @@
 ### 안녕하세요. 👋
 
-웹 개발자.  <br> 
-<br> 
-Java 백엔드 개발자입니다. <br>
-최근에는 Python, Django 를 배우고 있습니다. <br>
-<br>
+웹 개발자입니다. <br>
+작은 개선이 쌓여서 큰 변화를 이룬다고 생각합니다. <br> 
+Express.js 를 학습하고 있습니다. <br> 
 <!--
 **pjc1991/pjc1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
